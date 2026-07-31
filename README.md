@@ -44,7 +44,7 @@ Here is a visual walkthrough of the platform showcasing the user journey:
 
 ### 1. User Dashboard
 *Displays personal analytics, metrics, and past quiz attempts history.*
-![Dashboard](assets/dashboard.png)
+![Dashboard](https://github.com/MonikaK28/online-quiz-platform/blob/main/assests/dashboard.png)
 
 ### 2. Active Timed Quiz Interface
 *Features clean options layouts, progress tracking, and a live ticking countdown timer.*

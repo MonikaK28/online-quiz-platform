@@ -6,7 +6,7 @@ A full-stack Python web application for conducting online quizzes, featuring rea
 
 ## 🚀 Features
 
-* **🔐 Authentication:** User registration and login with email validation and secure session tracking.
+* **🔐 Authentication:** User registration and login with secure session tracking.
 * **📝 Dynamic Quiz Engine:** Questions filtered by category (Python, Science, History) and difficulty (Easy, Medium, Hard).
 * **⏱️ Real-time Timer:** Live countdown timer with automatic quiz submission when time expires.
 * **📊 Analytics Dashboard:** Personal performance metrics, score averages, personal bests, and full attempt history.

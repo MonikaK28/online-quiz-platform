@@ -38,6 +38,25 @@ A full-stack Python web application for conducting online quizzes, featuring rea
 * `assets/` - Contains UI screenshots for documentation.
 
 ---
+## 📸 Screenshots
+
+Here is a visual walkthrough of the platform showcasing the user journey:
+
+### 1. User Dashboard
+*Displays personal analytics, metrics, and past quiz attempts history.*
+![Dashboard](assets/dashboard.png)
+
+### 2. Active Timed Quiz Interface
+*Features clean options layouts, progress tracking, and a live ticking countdown timer.*
+![Active Quiz](assets/quiz.png)
+
+### 3. Detailed Results & Inline Evaluation
+*Provides instant grading, performance badges, and itemized answer reviews with checkmarks and crosses.*
+![Results](assets/results.png)
+
+### 4. Global Leaderboard
+*Ranks top-performing users across categories with timestamps.*
+![Leaderboard](assets/leaderboard.png)
 
 ## 🏃 Setup & Local Execution
 

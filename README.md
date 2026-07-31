@@ -48,15 +48,15 @@ Here is a visual walkthrough of the platform showcasing the user journey:
 
 ### 2. Active Timed Quiz Interface
 *Features clean options layouts, progress tracking, and a live ticking countdown timer.*
-![Active Quiz](assets/quiz.png)
+![Active Quiz](https://github.com/MonikaK28/online-quiz-platform/blob/main/assests/quiz.png)
 
 ### 3. Detailed Results & Inline Evaluation
 *Provides instant grading, performance badges, and itemized answer reviews with checkmarks and crosses.*
-![Results](assets/results.png)
+![Results](https://github.com/MonikaK28/online-quiz-platform/blob/main/assests/results.png)
 
 ### 4. Global Leaderboard
 *Ranks top-performing users across categories with timestamps.*
-![Leaderboard](assets/leaderboard.png)
+![Leaderboard](https://github.com/MonikaK28/online-quiz-platform/blob/main/assests/leaderboard.png)
 
 ## 🏃 Setup & Local Execution
 
